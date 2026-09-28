@@ -2,7 +2,7 @@ import React from 'react'
 
 const CoursePanel = () => {
   return (
-    <div>CoursePanel</div>
+    <div className='h-screen p-2'>CoursePanel</div>
   )
 }
 
