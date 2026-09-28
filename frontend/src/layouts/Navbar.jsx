@@ -9,8 +9,8 @@ const Navbar = () => {
       icon: Trophy,
     },
     {
-      label: "Programming Questions",
-      href: "#programming-questions",
+      label: "Programming",
+      href: "#programming/questions",
       icon: Code2,
     },
     {
